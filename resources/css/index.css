@@ -1,0 +1,41 @@
+body {padding: 0;
+margin:0;}
+
+.ad {background-color: black;
+text-align: center;}
+
+h1 {font-family: "Verdana";
+color: white;
+font-weight: normal;
+font-size: 50px;
+margin: 0;}
+
+h2 {font-family: "Verdana";
+font-size: 42px;
+color: white;
+font-weight: 300;}
+
+img {margin: 0 auto;}
+
+.ad p {color: aquamarine;
+font-size: 16px;
+font-family: "Verdana";
+text-decoration: underline;
+margin-top: 30px;
+margin-bottom: 0;}
+
+footer {background-color: black;
+margin: 0;}
+
+footer p {font-family: "Verdana";
+color: grey;
+margin: 0;
+text-align: right;
+font-size: 21px;}
+
+h3 {font-family: "Verdana";
+font-size: 21px;
+color: gray;
+font-weight: normal;}
+
+video {margin-top: 30px;}
